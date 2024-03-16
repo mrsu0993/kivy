@@ -7,3 +7,5 @@ https://github.com/mrsu0993/AnhSu/archive/master.zip
 
 KIVY 2.2.1
 https://github.com/mrsu0993/kivy2.2.1/archive/master.zip
+
+pip install pycryptodome
