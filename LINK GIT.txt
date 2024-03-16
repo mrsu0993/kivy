@@ -1,0 +1,5 @@
+KIVY3.0
+https://github.com/mrsu0993/Anhsu1
+https://github.com/mrsu0993/Anhsu1/archive/master.zip
+KIVYMD 1.2
+https://github.com/mrsu0993/AnhSu/archive/master.zip
